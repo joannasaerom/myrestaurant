@@ -124,7 +124,7 @@
                 android:id="@+id/saveRestaurantButton"
                 android:layout_alignParentBottom="true"
                 android:background="@color/colorAccent"
-                android:textColor="@color/colorAccent"
+                android:textColor="@color/colorPrimary"
                 android:textSize="15sp" />
         </RelativeLayout>
     </LinearLayout>
