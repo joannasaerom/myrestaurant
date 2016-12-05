@@ -2,7 +2,7 @@
 ####_Joanna Anderson_
 
 ##Description
-An android app to search for restaurants in a specific zip code. The app uses the Yelp API to display restaurant details and ratings.
+An android app to search for restaurants in a specific zip code. Users are able to save restaurants into a list to view later. The app uses the Yelp API to display restaurant details and ratings.
 
 ## Installation
 **To download the project**
